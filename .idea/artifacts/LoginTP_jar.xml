@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LoginTP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoginTP_jar</output-path>
+    <root id="archive" name="LoginTP.jar">
+      <element id="module-output" name="LoginTP" />
+    </root>
+  </artifact>
+</component>

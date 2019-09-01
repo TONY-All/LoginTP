@@ -1,0 +1,13 @@
+name: logintp
+author: TONY_All
+main: top.minicraft.logintp.logintp
+version: 1.0-beta
+commands:
+  logintp:
+    usage: /<command>
+    aliases:
+      ltp
+    description: main command
+permission:
+  logintp.reload: op
+  logintp.set: op
